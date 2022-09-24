@@ -9,7 +9,7 @@
 #   "PELAJARI FAHAMI LALU BUAT SENDIRI"   #
 #*****************************************#
 clear
-echo -e "\e[32m [*] Sukai halaman Facebook kami
+echo -e "\e[32m [*] Sukai halaman Facebook kami"
 sleep 2
 xdg-open https://facebook.com/baphomate.inc
 clear
