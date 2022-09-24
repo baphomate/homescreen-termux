@@ -39,6 +39,7 @@ cp -rf data/mux.sh $HOME/../usr/etc
 cp -rf data/log.sh $HOME/../usr/etc
 rm -rf $HOME/../usr/bin/login
 cp -rf data/login $HOME/../usr/bin
+chamod +x $HOME/../usr/bin/login
 rm -rf $HOME/.bashrc
 cp -rf data/.bashrc $HOME
 
