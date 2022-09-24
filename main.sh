@@ -9,8 +9,8 @@
 #   "PELAJARI FAHAMI LALU BUAT SENDIRI"   #
 #*****************************************#
 clear
-python .bot/kenichie-gans.py
-sleep 1
+echo -e "\e[32m [*] Sukai halaman Facebook kami
+sleep 2
 xdg-open https://facebook.com/baphomate.inc
 clear
 kenichie="             "
