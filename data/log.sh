@@ -19,7 +19,7 @@ read -p "[password]: " pass
 if [ $user = baphomate ] && [ $pass = termux ]; then
 echo -e "\e[32m [✓] Login successfull"
 sleep 1
-bash mux.sh
+bash $HOME../usr/etc/mux.sh
 else
 echo -e "\e[31m[!] Sorry :( Username & password Wrong"
 sleep 1
