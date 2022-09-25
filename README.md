@@ -1,6 +1,9 @@
 # homescreen-termux
 
 ## Preview
+<b>Update Logo Homescreen</b>
+[![Header](https://github.com/baphomate/homescreen-termux/blob/main/img/1.jpg "Header")](https://baphomate.github.io)
+<b>Old Logo</b>
 [![Header](https://github.com/baphomate/homescreen-termux/blob/main/img/IMG_20220924_200245.jpg "Header")](https://baphomate.github.io)
 [![Header](https://github.com/baphomate/homescreen-termux/blob/main/img/IMG_20220924_200227.jpg "Header")](https://baphomate.github.io)
 
