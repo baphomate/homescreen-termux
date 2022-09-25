@@ -34,6 +34,9 @@ echo "Done testing...."
 clear
 echo -e "[*]Configuration...."
 rm -rf $HOME/.config/neofecth/config.conf
+rm -rf data/mux.sh $HOME/../usr/etc
+rm -rf data/log.sh $HOME/../usr/etc
+#bila tak ada 
 cp -rf data/config.conf $HOME/.config/neofetch
 cp -rf data/mux.sh $HOME/../usr/etc
 cp -rf data/log.sh $HOME/../usr/etc
