@@ -35,8 +35,8 @@ clear
 echo -e "[*]Configuration...."
 rm -rf $HOME/.config/neofecth/config.conf
 #bila ada
-rm -rf $HOME/../usr/etc/mux.sh $HOME/../usr/etc
-rm -rf $HOME/../usr/etc/log.sh $HOME/../usr/etc
+rm -rf $HOME/../usr/etc/mux.sh 
+rm -rf $HOME/../usr/etc/log.sh 
 #bila tak ada 
 cp -rf data/config.conf $HOME/.config/neofetch
 cp -rf data/mux.sh $HOME/../usr/etc
