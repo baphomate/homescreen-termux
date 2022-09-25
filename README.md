@@ -1,5 +1,5 @@
 # homescreen-termux
-
+## Sedang dalam perbaikan
 ## Preview
 <b>Update Logo Homescreen</b>
 [![Header](https://github.com/baphomate/homescreen-termux/blob/main/img/1.jpg "Header")](https://baphomate.github.io)
